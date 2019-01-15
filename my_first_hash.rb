@@ -8,7 +8,7 @@ end
 
 def shipping_manifest
   
- the_manifest = {"corset"=>5, "vases"=>2, "painting"=>3}
+ the_manifest = {"corset"=>5, "vases"=>2, "oil paintings"=>3}
 
 end
 
